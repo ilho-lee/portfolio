@@ -5,7 +5,10 @@
   "cards": [
     {"week": 1, "title": "감 테스트", "line": "환율과 여행",
      "judgment": "달러, 엔화, 유로의 환율과, 여행지의 평균 온도 선호도 기준을 문항 문장에 넣었다",
-     "ai": ["Claude Code", "v0", "Perplexity"], "url": "https://gam-test-five.vercel.app/", "img": "img/w1.jpg"}
+     "ai": ["Claude Code", "v0", "Perplexity"], "url": "https://gam-test-five.vercel.app/", "img": "img/w1.jpg"},
+    {"week": 2, "title": "고객 한마디 분류기", "line": "고객 문의 한 줄을 넣으면 분류 · 감정 · 긴급도를 붙입니다",
+     "judgment": "",
+     "ai": ["Claude Code", "Google AI Studio", "ChatGPT"], "url": "https://classifier-sepia.vercel.app", "img": ""}
   ],
   "proposal": null
 }
