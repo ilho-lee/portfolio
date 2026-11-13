@@ -11,7 +11,7 @@
      "ai": ["Claude Code", "Gemini"], "url": "https://my-classifier-five.vercel.app/", "img": ""},
     {"week": 3, "title": "엑셀 정리기", "line": "",
      "judgment": "",
-     "ai": ["Claude Code", "Google Colab"], "url": "", "img": ""}
+     "ai": ["Claude Code", "Google Colab"], "url": "https://cleaner-flame.vercel.app/", "img": ""}
   ],
   "proposal": null
 }
