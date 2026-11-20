@@ -11,7 +11,10 @@
      "ai": ["Claude Code", "Gemini"], "url": "https://my-classifier-five.vercel.app/", "img": ""},
     {"week": 3, "title": "출장비 정산 정리기 — 빈 폴더에서", "line": "출장비 엑셀을 끌어다 놓으면 내 처방대로 정리본과 바꾼 기록이 나옵니다. 파일은 브라우저를 떠나지 않습니다",
      "judgment": "교통비가 200,000원을 넘는 줄은 고치지 않고 표시했다. 표시하지 않은 줄 가운데 정답에 있는 200줄의 합계는 정답과 1,248,565 원 차이였고, 진단에서 찾고도 처방을 적지 않은 교통비 7 · 부서 5 · 출장지 7 · 출장일 2 · 박수 5 · 숙박비 2 이었다.",
-     "ai": ["Claude Code"], "url": "https://my-cleaner-dusky.vercel.app/", "img": "img/w3.png"}
+     "ai": ["Claude Code"], "url": "https://my-cleaner-dusky.vercel.app/", "img": "img/w3.png"},
+    {"week": 4, "title": "월간 보고 SQL 앱", "line": "매달 추출한 엑셀을 넣으면 정해 둔 질문의 답이 SQL과 함께 나옵니다.",
+     "judgment": "",
+     "ai": ["Claude Code (MCP · 서브에이전트)", "BigQuery", "Gemini"], "url": "https://sql-window-bay.vercel.app/", "img": ""}
   ],
   "proposal": null
 }
