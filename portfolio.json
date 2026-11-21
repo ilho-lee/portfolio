@@ -14,7 +14,7 @@
      "ai": ["Claude Code"], "url": "https://my-cleaner-dusky.vercel.app/", "img": "img/w3.png"},
     {"week": 4, "title": "매입/매출 비교 SQL 앱", "line": "추출한 엑셀 매출, 상품, 쇼핑몰별 SQL과 함께 나옵니다",
      "judgment": "AI SQL이 실행마다 조금씩 달랐으므로 숫자의 근거를 AI의 말이 아니라 브라우저 계산과 따로 센 정답에서 얻는다",
-     "ai": ["Claude Code (MCP · 서브에이전트)", "BigQuery", "Gemini"], "url": "https://my-app-ten-ashen-77.vercel.app/", "img": ""}
+     "ai": ["Claude Code (MCP · 서브에이전트)", "BigQuery", "Gemini"], "url": "https://my-app-ten-ashen-77.vercel.app/", "img": "img/w4.png"}
   ],
   "proposal": null
 }
