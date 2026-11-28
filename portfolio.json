@@ -17,7 +17,7 @@
      "ai": ["Claude Code (MCP · 서브에이전트)", "BigQuery", "Gemini"], "url": "https://my-app-ten-ashen-77.vercel.app/", "img": "img/w4.png"},
     {"week": 5, "title": "상품매입과 매출 추이", "line": "지표 정의서 읽어 월간 운영 대시보드를 그린다. 정의서의 문장과 SQL이 어긋나면 고칠 곳을 표로 보여준다",
      "judgment": "지표마다 정의서 한 장이 있고, 상품매입/매출 현황과 추이를 계산합니다.",
-     "ai": ["Claude Code"], "url": "https://metric-dictionary-liard.vercel.app/", "img": "img/w5.png"}
+     "ai": ["Claude Code"], "url": "https://my-metrics-2-indol.vercel.app/", "img": "img/w5.png"}
   ],
   "proposal": null
 }
